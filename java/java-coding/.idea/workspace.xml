@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d17ed4c-534e-48a6-b1dc-80ba22b83e25" name="Changes" comment="" />
+    <list default="true" id="8d17ed4c-534e-48a6-b1dc-80ba22b83e25" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbcDemo/src/test/java/top/zhy/jdbc/test/JdbcUtilTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbcDemo/src/test/java/top/zhy/jdbc/test/JdbcUtilTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +55,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "editing.templates"
   }
 }]]></component>
   <component name="RunManager">
@@ -86,6 +89,8 @@
       <workItem from="1675351796765" duration="4856000" />
       <workItem from="1675356671962" duration="1235000" />
       <workItem from="1675511718340" duration="1249000" />
+      <workItem from="1675835269973" duration="2541000" />
+      <workItem from="1675845507448" duration="2325000" />
     </task>
     <servers />
   </component>

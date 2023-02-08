@@ -12,6 +12,7 @@ public class FormatUtil {
      * @param array 数组
      * @param count 每行个数
      */
+    
     public static void printArray(int[] array, int count) {
         int i = 0;
         while (i < array.length) {
